@@ -41,7 +41,8 @@ where should i increase spend?
 
 ## Project Architecture
 
-![img_4.png](img_4.png)
+<img width="445" height="380" alt="image" src="https://github.com/user-attachments/assets/9db16feb-8c64-40c4-ac86-4a1980bb93f1" />
+
 ---
 
 ## Dataset
